@@ -4,7 +4,7 @@ Endangered is an interactive map designed to teach primary school children about
 ![Screenshot of app homepage](client/public/homePage.png)
 *Screenshot of app homepage*
 
-![Screenshot of animal passport](client/src/assets/aPassport.png)
+![Screenshot of animal passport](client/public/aPassport.png)
 *Screenshot of animal passport*
 
 
