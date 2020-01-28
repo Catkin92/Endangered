@@ -1,12 +1,7 @@
 # Endangered
 Endangered is an interactive map designed to teach primary school children about endangered animals and the threats to their habitats.
 
-![Screenshot of app homepage](client/public/homePage.png)
-*Screenshot of app homepage*
-
-![Screenshot of animal passport](client/public/aPassport.png)
-*Screenshot of animal passport*
-
+![Screenshot of app homepage](client/public/homePage.png) ![Screenshot of animal passport](client/public/aPassport.png)
 
 
 ## Project Brief
