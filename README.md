@@ -1,5 +1,7 @@
 # Endangered
-This was a 6 day project made in a team of four.
+Endangered is an interactive map designed to teach primary school children about endangered animals and the threats to their habitats.
+
+
 
 
 ## Project Brief
@@ -17,18 +19,37 @@ A user should be able to:
 - Use charts or maps to display your information to the page.
 
 ## Project Set Up
-### Server
-Follow these instructions within the server directory:
+### Backend set up
+
+Install dependencies. Within in the server folder:
+
 ```
 npm install
+```
+
+Run mongod to start MongoDB services (leave running in a terminal window).
+
+```
+mongod
+```
+
+Seed the database.  Within the server folder:
+
+```
+
 npm run seeds
+```
+
+Run express (leave running in a terminal window).  Within the server folder:
+
+```
 npm run server:dev
 ```
 
-### Client
-Follow these instructions within the client directory:
+### Frontend set up
+#### Follow these instructions within the client directory:
+
 ```
-cd client
 npm install
 npm run serve
 ```
