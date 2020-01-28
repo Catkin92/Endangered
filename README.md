@@ -15,3 +15,16 @@ A user should be able to:
 ### Example Extensions
 - Use an API to bring in content or a database to store information.
 - Use charts or maps to display your information to the page.
+
+## Project Set Up
+### Server
+```
+npm install
+```
+```
+npm run seeds
+```
+```
+npm run server:dev
+```
+
