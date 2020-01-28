@@ -18,14 +18,15 @@ A user should be able to:
 
 ## Project Set Up
 ### Server
+Follow these instructions within the server directory:
 ```
-cd server
 npm install
 npm run seeds
 npm run server:dev
 ```
 
 ### Client
+Follow these instructions within the client directory:
 ```
 cd client
 npm install
