@@ -19,12 +19,16 @@ A user should be able to:
 ## Project Set Up
 ### Server
 ```
+cd server
 npm install
-```
-```
 npm run seeds
-```
-```
 npm run server:dev
+```
+
+### Client
+```
+cd client
+npm install
+npm run serve
 ```
 
