@@ -1,2 +1,2 @@
 # Endangered
-This was a week long project made in a team of four.
+This was a 6 day project made in a team of four.
