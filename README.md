@@ -1,6 +1,11 @@
 # Endangered
 Endangered is an interactive map designed to teach primary school children about endangered animals and the threats to their habitats.
 
+![Screenshot of app homepage](/client/src/assets/homePage.png)
+*Screenshot of app homepage*
+
+![Screenshot of animal passport](/client/src/assets/aPassport.png)
+*Screenshot of animal passport*
 
 
 
@@ -47,7 +52,8 @@ npm run server:dev
 ```
 
 ### Frontend set up
-#### Follow these instructions within the client directory:
+
+Follow these instructions within the client directory:
 
 ```
 npm install
