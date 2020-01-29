@@ -20,12 +20,19 @@ A user should be able to:
 - Use charts or maps to display your information to the page.
 
 ## Conclusions
-# Things to improve
+### What I've learned
+- 
+
+### Things To Improve
 - The CSS  didn't scale properly to different screen sizes, so planning for a more responsive CSS would be something to do in the future.
+
+### Future Possible Extensions
+- Allowing a user to create an 'explorer' profile, that would keep track of their favourite animals and a quiz score.
+- Adding more information and helpful links to the 'biggest threat' window.
 
 
 ## Project Set Up
-### Backend set up
+### Backend Set Up
 
 Install dependencies. Within in the server folder:
 
@@ -52,7 +59,7 @@ Run express (leave running in a terminal window).  Within the server folder:
 npm run server:dev
 ```
 
-### Frontend set up
+### Frontend Set Up
 
 Follow these instructions within the client directory:
 
