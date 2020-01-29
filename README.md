@@ -20,7 +20,9 @@ A user should be able to:
 - Use charts or maps to display your information to the page.
 
 ## Conclusions
----
+# Things to improve
+- The CSS  didn't scale properly to different screen sizes, so planning for a more responsive CSS would be something to do in the future.
+
 
 ## Project Set Up
 ### Backend set up
