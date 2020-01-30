@@ -2,7 +2,8 @@
 Endangered is an interactive map designed to teach primary school children about endangered animals and the threats to their habitats. Children are able to see examples of endangered animals for each continent, read a bit about each animal and answer a multiple choice quiz question for each animal. They can also favourite animals, and find out what common threat affects their favourites.
 This app was made over six days with a team of four using Vue for the frontend, Express for backend with MongoDB for data persistance.
 
-![Screenshot of app homepage](client/public/homePage.png=250x) ![Screenshot of animal passport](client/public/aPassport.png=250x)
+![Screenshot of app homepage](client/public/homePage.png) ![Screenshot of animal passport](client/public/aPassport.png)
+
 
 
 ## Project Brief
