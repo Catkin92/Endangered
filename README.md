@@ -21,10 +21,12 @@ A user should be able to:
 
 ## Conclusions
 ### What I've learned
-- 
+- This was my first opportunity to create a project with a team, and I learned how to better plan as a team and employ an agile methodology, with regular reviews and check-ins.
+- The project helped consolidate my knowledge of Vue and CSS, although there is still a lot still to learn about both.
 
 ### Things To Improve
 - The CSS  didn't scale properly to different screen sizes, so planning for a more responsive CSS would be something to do in the future.
+- Better planning of component structures.
 
 ### Future Possible Extensions
 - Allowing a user to create an 'explorer' profile, that would keep track of their favourite animals and a quiz score.
