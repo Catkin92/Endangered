@@ -6,7 +6,7 @@ This app was made over six days with a team of four using Vue for the frontend, 
 
 
 
-## Project Brief
+# Project Brief
 ### Educational App
 The BBC are looking to improve their online offering of educational content by developing some interactive browser applications that display information in a fun and interesting way. Your task is to make an a Minimum Viable Product or prototype to put forward to them - this may only be for a small set of information, and may only showcase some of the features to be included in the final app.
 
@@ -20,7 +20,7 @@ A user should be able to:
 - Use an API to bring in content or a database to store information.
 - Use charts or maps to display your information to the page.
 
-## Conclusions
+# Conclusions
 ### What I've learned
 - This was my first opportunity to create a project with a team, and I learned how to better plan as a team and employ an agile methodology, with regular reviews and check-ins.
 - The project helped consolidate my knowledge of Vue and CSS, although there is still a lot still to learn about both.
@@ -34,7 +34,7 @@ A user should be able to:
 - Adding more information and helpful links to the 'biggest threat' window.
 
 
-## Project Set Up
+# Project Set Up
 ### Backend Set Up
 
 Install dependencies. Within in the server folder:
